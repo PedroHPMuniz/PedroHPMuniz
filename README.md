@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, sou Pedro Muniz</h1>
+<h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
 
-<!--
-**PedroHPMuniz/PedroHPMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando no **Inovaê* *
 
-Here are some ideas to get you started:
+- 👯 Estou querendo colaborar no **Com o mundo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https:// twitter.com/munizeraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="munizeraaa" height="30" width="40" /></a>
+<a href="https://instagram.com/pedrohpmuniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="pedrohpmuniz" height="30" width="40" /></a>
+<a href="https://discord.gg/Pedro Muniz#5029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ discord.svg" alt="Pedro Muniz#5029" height="30" width="40" /></a>
+</p>
